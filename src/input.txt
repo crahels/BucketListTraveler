@@ -1,0 +1,5 @@
+map 1
+compass 4
+sunblock 1
+clothes 3
+water 4
